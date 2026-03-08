@@ -2,7 +2,7 @@
 
 > Javascript를 활용한 웹사이트 클론코딩
 
-https://github.com/user-attachments/assets/fb254a9f-8ace-4663-90f5-7bb2a159c6b2
+<img width="1483" height="897" alt="image" src="https://github.com/user-attachments/assets/d3fd1538-b22e-4a69-914f-e611a61496bb" />
 
 ## 🔗 링크
 - **배포 링크**: [바로가기](배포 URL)
