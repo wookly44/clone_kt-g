@@ -14,14 +14,13 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
 ## 📌 구현 기능
 
 - [x] 메인 페이지 레이아웃 구현
-- [x] 메인 페이지 애니메이션 및 Hover 인터랙션 구현
+- [x] keyframes 및 transform을 활용한 메인 페이지 애니메이션 및 Hover 인터랙션 구현
 - [x] 반응형 웹 구현 (Mobile / Tablet / Desktop)
 
 ---
