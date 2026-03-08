@@ -538,7 +538,6 @@ address,
 .youtube>a>img {
     z-index: 999;
     position: relative;
-    /* z-index는 position을 같이 줘야 한다. */
 }
 
 .link_site {
