@@ -1,0 +1,21 @@
+/* common css */
+:root {
+    --main-blue-color: #007aff;
+    --main-dim-font: #111;
+    --main-dark-font: #333;
+    --main-gray-font: #666;
+    --main-light-font: #999;
+}
+
+.w1440 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
