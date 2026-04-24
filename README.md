@@ -5,8 +5,8 @@
 <img width="1483" height="897" alt="image" src="https://github.com/user-attachments/assets/d3fd1538-b22e-4a69-914f-e611a61496bb" />
 
 ## 🔗 링크
-- **배포 링크**: https://clone-kt-g.vercel.app/
-- **참고한 원본 사이트**: https://scholarship.ktngtogether.com/index.do
+- **배포 링크**: [바로가기](https://clone-kt-g.vercel.app/)
+- **참고한 원본 사이트**: [KT&G장학재단](https://scholarship.ktngtogether.com/index.do)
 
 ---
 
